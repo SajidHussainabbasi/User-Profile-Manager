@@ -1,4 +1,4 @@
-# 1️⃣ User Profile Manager
+#  User Profile Manager
 
 ## 🧩 Description
 A simple **Spring Boot REST API** for managing basic user profiles.  
